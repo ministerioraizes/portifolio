@@ -184,3 +184,6 @@
   #trajetoria, #ficha, #projeto { break-before: page; }
   a[href^="http"].contato-card::after { content: none; }
 }
+
+/* ── Créditos de faixas não autorais ── */
+.pf-credit { font-size: .74rem; color: var(--text-muted); font-style: italic; }
